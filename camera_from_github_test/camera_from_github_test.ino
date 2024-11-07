@@ -1,4 +1,4 @@
-//Settings to run board
+//**Settings to run board**
 // Board -> ESP32S3 Dev Module
 // USB CDC On Boot -> Enable ## Note that you need to change Enable to Disable when USB is not connected, so USB CDC will not prevent the board from starting
 // Flash Mode -> QIO 80MHz
